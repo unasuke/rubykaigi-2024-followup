@@ -4,3 +4,6 @@ source "https://rubygems.org"
 
 gem "rabbit"
 gem "rake"
+gem "drb"
+gem "nkf"
+gem "csv"

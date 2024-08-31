@@ -11,6 +11,8 @@ GEM
       cairo (>= 1.16.2)
       glib2 (= 4.2.2)
     coderay (1.1.3)
+    csv (3.3.0)
+    drb (2.2.1)
     erubi (1.13.0)
     fiddle (1.1.2)
     forwardable (1.3.3)
@@ -46,6 +48,7 @@ GEM
     locale (2.1.4)
     matrix (0.4.2)
     native-package-installer (1.1.9)
+    nkf (0.2.0)
     nokogiri (1.16.7-aarch64-linux)
       racc (~> 1.4)
     nokogiri (1.16.7-arm-linux)
@@ -107,8 +110,11 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  csv
+  drb
+  nkf
   rabbit
   rake
 
 BUNDLED WITH
-   2.5.5
+   2.5.18
