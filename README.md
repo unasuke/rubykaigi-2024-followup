@@ -1,4 +1,4 @@
-# RubyKaigi 2023 followup
+# RubyKaigi 2024 followup
 
 https://rhc.connpass.com/event/320709/
 
